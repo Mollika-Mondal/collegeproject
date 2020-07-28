@@ -1,0 +1,12 @@
+
+	body{
+ animation: change 12s infinite;
+}
+@keyframes change{
+	0%{background-color: #1abc9c;}
+	25%{background-color: #2ecc71;}
+	50%{background-color: #9b59b6;}
+	75%{background-color: #e74c3c;}
+ 
+
+}

@@ -1,0 +1,34 @@
+body{
+	background:url(heroimage.jpg);
+	background-size: cover;
+	font-family: arial;
+	color:white;
+	}
+
+}
+.img{
+	display:inline;
+	float:left;
+	width:200px;
+	height:40px;
+	background-color:black;
+	opacity:.9;
+	line-height:40px;
+	text-align:center;
+	font size: 10px;
+
+}
+.left{
+	float: left;
+	width:0%
+	margin-right: 0%;
+	background-color:blue;
+	text-align:center;
+	}
+	.right{
+	float: right;
+	width:0%
+	margin-right: 0%;
+	background-color:blue;
+	text-align:center;
+}

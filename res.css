@@ -1,0 +1,78 @@
+body{
+	
+	background:url(im.jpg)
+	no-repeat center center fixed;
+	background-size: cover;
+	font-family: sans-serif;
+}
+header{
+	width: 80%
+	margin:auto;
+	overflow: hidden;
+}
+.head{
+	float: left;
+	color: black;
+	font-family: cursive;
+}
+nav{
+	float: right;
+}
+li{
+	display: inline;
+	padding: 1rem
+}
+li a{
+	color:black;
+	text-decoration:none;
+	font-weight: bold;
+	}
+	.active{
+		
+	width: 20%;
+	margin: auto;
+	overflow: hidden;
+	margin-top:1%;
+	}
+	showcase h1{
+	color: black;
+	font-family: cursive;
+    text-align:center;
+	}
+showcase h3{
+	color: black;
+	text-align:center;
+	letter-spacing: 2px;
+	}
+	.category{
+		color: black;
+		margin-top: 10%;
+		display:flex;
+		text-align:center;
+		font-family: cursive;
+	}
+	img{
+		display:inline;
+		padding: 1rem
+		width: 80%;
+		border-radius: 70%
+
+	}
+
+
+ .cake,.chikenb,.chowv{
+		padding-left: 1rem;
+	}
+h4{
+	font-size: 1.5rem;/*lrem*16px */
+margin: 3%;
+}
+.btn{
+	background-color: gold;
+	padding: 1rem;
+	border:none;
+	border-radius: 8px;
+	margin-left:45%;
+}
+
+

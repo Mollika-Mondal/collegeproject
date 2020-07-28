@@ -1,0 +1,25 @@
+body{
+	background:url(ab.jpg);
+	background-size: cover;
+	font-family: arial;
+	color:black;
+	}
+	tr td{
+		color:black;
+
+	}
+	tr td ol li{
+		color:black;
+	}
+	
+	div{
+		color:tomato;
+	}
+tr img{
+	float: right;
+	width:0%
+	margin-right: 0%;
+	background-color:none;
+	text-align:center;
+	border-radius: 70%
+	}
